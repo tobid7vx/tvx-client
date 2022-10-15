@@ -1,0 +1,3 @@
+[submodule "NImGui"]
+	path = NImGui
+	url = https://github.com/tobid7vx/NImGui
